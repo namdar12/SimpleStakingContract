@@ -7,3 +7,7 @@ The rewards for staking are based off 2 things, how long a user has been staking
 The rewards are given to a user when they unstake their Gamma tokens.
 
 ## How To Run
+```
+npm i
+npx hardhat test
+```
